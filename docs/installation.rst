@@ -11,7 +11,7 @@ Dependencies
 Install dependencies::
 
     $ sudo apt-get install git python-pip python-dev
-    $ sudo pip install virtualenv
+    $ sudo pip install virtualenv python-virtualenv
 
 MongoDB
 -------
